@@ -1,0 +1,1 @@
+Det fick kriga med allt från push, commit, add och pull.
