@@ -1,1 +1,7 @@
-Jesper Orb som under m�nga �r finslipat sina kunskaper inom datakunskap.
+Jesper Orb som under m�nga �r finslipat sina kunskaper inom datakunskap. 
+Har tagit sig an rollen som Javascript föreläsare på Academy, 
+ovetandes vilka utmaningar som väntar på honnom. 
+Redan två veckor in så inser han att en del konsulter kämpar med Git 
+och behöver vägledning för att komma vidare. 
+Det uppstår frågor som " Varför sparas inte mina filer? och vad gör jag för fel?"
+
