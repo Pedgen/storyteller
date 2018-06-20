@@ -1,7 +1,6 @@
-Jesper Orb som under m�nga �r finslipat sina kunskaper inom datakunskap. 
-Har tagit sig an rollen som Javascript föreläsare på Academy, 
-ovetandes vilka utmaningar som väntar på honnom. 
-Redan två veckor in så inser han att en del konsulter kämpar med Git 
-och behöver vägledning för att komma vidare. 
-Det uppstår frågor som " Varför sparas inte mina filer? och vad gör jag för fel?"
-
+Jesper Orb som under många år finslipat sina kunskaper inom datakunskap. Med sig hade Jesper alltid sin trogna Macbook Pro Air 3000.
+Har tagit sig an rollen som Javascript fÃ¶relÃ¤sare pÃ¥ Academy, 
+ovetandes vilka utmaningar som vÃ¤ntar pÃ¥ honnom. 
+Redan tvÃ¥ veckor in sÃ¥ inser han att en del konsulter kÃ¤mpar med Git 
+och behÃ¶ver vÃ¤gledning fÃ¶r att komma vidare. 
+Det uppstÃ¥r frÃ¥gor som " VarfÃ¶r sparas inte mina filer? och vad gÃ¶r jag fÃ¶r fel?"
