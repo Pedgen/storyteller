@@ -1,1 +1,6 @@
-Jesper Orb som under m�nga �r finslipat sina kunskaper inom datakunskap. Med sig hade Jesper alltid sin trogna Macbook Pro Air 3000.
+Jesper Orb som under många år finslipat sina kunskaper inom datakunskap. Med sig hade Jesper alltid sin trogna Macbook Pro Air 3000.
+Har tagit sig an rollen som Javascript fÃ¶relÃ¤sare pÃ¥ Academy, 
+ovetandes vilka utmaningar som vÃ¤ntar pÃ¥ honnom. 
+Redan tvÃ¥ veckor in sÃ¥ inser han att en del konsulter kÃ¤mpar med Git 
+och behÃ¶ver vÃ¤gledning fÃ¶r att komma vidare. 
+Det uppstÃ¥r frÃ¥gor som " VarfÃ¶r sparas inte mina filer? och vad gÃ¶r jag fÃ¶r fel?"
